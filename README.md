@@ -1,6 +1,6 @@
 <h2 align="center"> 💻 Imersão Dev  <a id="top"> </a></h2>
 
-![JavaScript](https://img.shields.io/badge/Imersao-Dev-blue?&style=flat) ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.Projetos-FrontEnd) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/Projetos-FrontEnd?&color=blue) ![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/Projetos-FrontEnd?&color=blue) [![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Cascating-Style-Sheets?style=social)](https://github.com/savionascimentodev/Cascating-Style-Sheets/stargazers)
+![JavaScript](https://img.shields.io/badge/Imersao-Dev-blue?&style=flat) ![visitor](https://visitor-badge.glitch.me/badge?page_id=savionascimentodev.ImersaoDev) ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/ImersaoDev?&color=blue) ![repo-size](https://img.shields.io/github/repo-size/savionascimentodev/ImersaoDev?&color=blue) ![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/ImersaoDev?style=social)
 
 <p align="center">
  <img alt="wallpaper-imersaoAlura" src="./assets/fundo-imersao.png" height="340">
@@ -54,7 +54,7 @@ Os instrutores e instrutoras estarão disponíveis para correção de exercício
 ## 👥 Instrutores
 
 <p align="center">
- <img alt="instrutores" src="./assets/instrutores.png" height="440" >
+ <img alt="instrutores" src="./assets/instrutores.png" height="560" >
 </p>
 
 ##### 👨🏻‍💻 Paulo Silveira
@@ -94,13 +94,9 @@ Os instrutores e instrutoras estarão disponíveis para correção de exercício
 
 </details>
 
----
-
 <p align="center">
  <img alt="wallpaper-imersaoAlura" src="./assets/og-imersao-alura.1616501197.png" height="340">
 </p>
-
----
 
 ### 👤 Autor <a id="autor"></a>
 
