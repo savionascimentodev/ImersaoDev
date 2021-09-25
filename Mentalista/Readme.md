@@ -52,7 +52,7 @@ Nesta aula, enquanto escrevemos nosso programa vamos aprender mais ferramentas d
 
 <details>
 <summary>
-  <strong>Esses projetos forão desenvolvido com as seguintes tecnologias:</strong>
+  <strong>Esses projetos foram desenvolvido com as seguintes tecnologias:</strong>
 </summary>
 <br>
 
