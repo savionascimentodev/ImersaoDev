@@ -1,0 +1,101 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  min-height: 400px;
+  background-image: url('https://media-manager.noticiasaominuto.com.br/1920/naom_5c499fb76a29c.jpg');
+  background-color: #111;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #0000ff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+}
+
+h1 {
+  color: tomato;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+}
+
+.form-wrapper {
+  margin: 0 0 10px;
+}
+
+.form-wrapper input {
+  display: inline;
+  margin: 2px 5px 5px 5px;
+  padding: 5px 10px;
+}
+
+.form-wrapper button1 {
+  border: 0;
+  color: #ffffff;
+  background: #008000;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-size: 12px;
+  border-radius: 4px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button2 {
+  border: 0;
+  color: #ffffff;
+  background: #ff0022;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-size: 12px;
+  border-radius: 4px;
+  margin-top: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
+
+.resultado {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 16px;
+}
