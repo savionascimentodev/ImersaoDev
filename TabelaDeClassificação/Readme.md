@@ -1,4 +1,4 @@
-<h2 align="center"> AluraFlix <a id="top"></a></h2>
+<h2 align="center"> Tabela de Classificação <a id="top"></a></h2>
 
 <p align="center">
     <a href="#desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,30 +11,29 @@
 
 [🏠 Home](https://github.com/savionascimentodev/ImersaoDev)
 
-No nosso dia-a-dia é normal trabalharmos com quantidades grandes de dados. Imagine uma lista de nomes de estudantes em uma escola, ou de todos os filmes do gênero "terror" em uma plataforma. Não é prático criarmos uma variável para cada informação, então utilizamos muitas estruturas de dados para fazer isso.
+Nesta sexta aula da Imersão Dev, vamos criar uma tabela de classificação e aprender o que são objetos no Javascript! O código da aula para você acompanhar está aqui:
 
-Link do projeto base:
+https://codepen.io/imersao-dev/pen/c3ba80ae177fcded4c257015d4ce719c
 
-https://codepen.io/imersao-dev/pen/15c30c8f7a2a723b9cbcc0943995be3f
-
-Nesta aula vamos ver a primeira delas, array, um tipo de lista de elementos, assim como algumas ferramentas para alterarmos e trabalharmos com estas listas. Depois de criarmos uma lista, vamos exibir os pôsters de todos os nossos filmes preferidos na tela do navegador.
+Neste programa, focamos em objetos no universo Javascript, criando uma tabela de classificação, onde manipulamos os valores, realizamos cálculos e incluímos no HTML.
 
 **Conteúdo detalhado do Projeto:**
 
-- Criar uma primeira array de filmes usando a sintaxe **[ ]**;
-- Utilizar o método filmes.**push**("Nome Do Filme") para inserir um novo elemento na lista (ou seja, um novo filme na array);
-- Descobrir a quantidade de elementos em uma array com o método **array.length**;
-- Selecionar elementos de uma array utilizando a sintaxe array[número], lembrando sempre que o primeiro índice começa com zero, ou seja, array[0] para o primeiro elemento;
-- Utilizar a instrução **for** para **iterar**, ou seja, **percorrer** todos os elementos de uma array;
-- Criar uma array com imagens de pôsters de alguns filmes que gostamos;
-- Montar a lógica do programa que vai iterar esta array de filmes e exibir cada um deles na tela, integrando o **for** do JavaScript com **document.write()**.
+Remover o código estático do HTML;
+Criar um objeto no Javascript para cada jogador;
+Criar uma função que receba um objeto como parâmetro para calcular os pontos;
+Exibir o objeto na página HTML;
+Criar uma função para adicionar vitória, outra para adicionar empate e uma última para adicionar derrota;
+Recalcular os pontos quando vitória ou empate for adicionado.
 
 **Desafios deste projeto!** <a id="desafios"></a>
 
-- Escolher o seu tema preferido para adaptar ao nosso código, ou seja, ao invés de filmes pode ser uma lista de animes, HQ's, cursos, capas de jogos...
-- Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while
-- Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente
-- Criar um campo e botão para adicionar a imagem pela tela, e não direto no código
+Fazer a lógica de quando houver um empate, obrigatóriamente deveria já ajustar como empate para os demais jogadores
+Validar se todos os pontos estão fazendo sentido, tanto o número de empates, quanto derrotas e vitórias com os demais jogadores (impossível haver mais vitórias que derrotas, por exemplo)
+Adicionar a imagem de cada jogador
+Criar um botão para zerar todos os pontos
+Criar um botão e inputs (campos de texto) para adicionar novos jogadores, com seus respectivos dados
+Utilizar seu jogo preferido para se basear na pontuação da sua tabela de classificação
 
 ---
 
